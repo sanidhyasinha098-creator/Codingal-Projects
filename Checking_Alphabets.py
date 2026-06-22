@@ -12,3 +12,4 @@ while True:
     else:
         print("Invalid input")
 
+#Please check Checking_Alphabets_Output.png for the output of this code.
